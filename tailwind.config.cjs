@@ -5,7 +5,11 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx,vue}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero': "url('./assets/14043.jpg')"
+      }
+    },
     colors: {
       'main': '#0F172A',
       'second': '#3b82f6',
