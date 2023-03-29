@@ -70,7 +70,7 @@ export default {
           </div>
         </h1>
         <p class="text-[1.7rem] font-semibold mt-8 italic">
-          Push your limits with FannMark - the product that will help you achieve new levels of performance and success!
+          Push your limits with FannMark - the product that will help you achieve new levels of performance and sucess!
         </p>
 
 
